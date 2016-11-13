@@ -1,0 +1,19 @@
+{
+  "name": "mermaid-dark-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A mermaid inspired, pink-heavy, soft and muted syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme",
+    "atom",
+    "pastel",
+    "mermaid",
+    "unicorn"
+  ],
+  "repository": "https://github.com/vannio/mermaid-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
