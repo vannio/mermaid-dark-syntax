@@ -1,7 +1,7 @@
 {
   "name": "mermaid-dark-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A mermaid inspired, pink-heavy, soft and muted syntax theme for Atom",
   "keywords": [
     "syntax",
